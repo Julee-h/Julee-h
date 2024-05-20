@@ -1,7 +1,8 @@
 ![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi,%20I'm%20Juhui)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJulee-h&count_bg=%2363CFED&title_bg=%23B3B2E7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### Hi there 👋
-
+### 🙇 안녕하세요, Back-end Programmer로 성장해나가고 있는 이주희입니다!
 <!--
 **Julee-h/Julee-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
